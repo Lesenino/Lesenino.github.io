@@ -1,2 +1,2 @@
-Быстрая ссылочка на главную страничку https://Lesenino.github.io/dist
+https://Lesenino.github.io/dist
 
